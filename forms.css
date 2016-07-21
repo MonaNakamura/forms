@@ -1,0 +1,86 @@
+body {
+	background-color: #3399ff;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	height: 35px;
+	margin-top: 60px;
+	text-align: center;
+}
+
+.signup-form {
+	height: 400px;
+	width: 400px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+fieldset {
+	border: none;
+}
+
+h1 {
+	text-align: center;
+	font-family: calibri;
+	font-size: 50px;
+	font-weight: normal;
+	color: #666666;
+	margin-top: 5px;
+}
+
+input {
+	width: 320px;
+	height: 20px;
+	padding: 15px;
+	border: 2px solid #ccc;
+	margin-bottom: 25px;
+}
+
+button {
+	width: 354px;
+	height: 50px;
+	padding: 10px;
+	margin-top: 0px;
+	background-color: #00e699;
+	color: white;
+	border: none;
+	font-size: 22px;
+	display: block;
+
+}
+
+button:hover {
+	background-color: #00cc88;
+}
+
+label {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+span.forgot-password {
+	display: block;
+	text-align: center;
+	margin-top: 5px;
+	font-family: calibri;
+}
+
+span.forgot-password a {
+	color: #ccc;
+}
+
+.login {
+	text-align: center;
+	color: white;
+	font-family: calibri;
+}
+
+.login a {
+	color: white;
+}
